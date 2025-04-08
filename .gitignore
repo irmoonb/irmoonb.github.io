@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Don't ignore these files
+!.gitignore
+!README.md
+!*.html
+!*.css
+!*.js
+
+# Don't ignore folders so that the files inside them can be included if they match
+!*/
